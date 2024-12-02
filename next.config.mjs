@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: '/app',
+    basePath: '/next-static-export-404-reproduce',
     output: 'export'
 };
 
