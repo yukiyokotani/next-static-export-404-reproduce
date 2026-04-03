@@ -4,6 +4,8 @@ export default function Home() {
   return (
     <div>
       <Link href='/'>Link to root</Link>
+      <br />
+      <Link href='/foo/bar'>Link to /foo/bar</Link>
     </div>
   );
 }
