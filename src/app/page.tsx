@@ -6,6 +6,8 @@ export default function Home() {
       <Link href='/'>Link to root</Link>
       <br />
       <Link href='/foo/bar'>Link to /foo/bar</Link>
+      <br />
+      <Link href='/baz'>Link to /baz (inside route group)</Link>
     </div>
   );
 }
